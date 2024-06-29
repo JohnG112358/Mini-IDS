@@ -1,0 +1,11 @@
+2024-06-03 10:31:17,125 - INFO - Starting port scanning detector
+2024-06-03 10:31:17,125 - INFO - Listening ports: {53, 35261, 22}
+2024-06-03 10:31:20,402 - INFO - TCP packet from 192.168.64.1 to 192.168.64.4:58 querying closed port 58
+2024-06-03 10:31:21,403 - INFO - TCP packet from 192.168.64.1 to 192.168.64.4:58 querying closed port 58
+2024-06-03 10:31:23,619 - INFO - TCP packet from 192.168.64.1 to 192.168.64.4:59 querying closed port 59
+2024-06-03 10:31:24,621 - INFO - TCP packet from 192.168.64.1 to 192.168.64.4:59 querying closed port 59
+2024-06-03 10:31:27,064 - INFO - TCP packet from 192.168.64.1 to 192.168.64.4:60 querying closed port 60
+2024-06-03 10:31:27,064 - WARNING - Possible port scan detected from 192.168.64.1 to consecutive ports [58, 59, 60]
+2024-06-03 10:31:28,066 - INFO - TCP packet from 192.168.64.1 to 192.168.64.4:60 querying closed port 60
+2024-06-03 10:31:28,068 - WARNING - Possible port scan detected from 192.168.64.1 to consecutive ports [58, 59, 60]
+2024-06-03 10:31:53,372 - INFO - Stopping packet capture

@@ -1,0 +1,3 @@
+2024-06-03 10:36:10,621 - INFO - Starting SYN flood detector
+2024-06-03 10:37:59,817 - WARNING - Received 5 SYNs without ACKs in the last 3 seconds. This could be indicative of a SYN flood.
+2024-06-03 10:38:39,161 - WARNING - Received 9 SYNs without ACKs in the last 3 seconds. This could be indicative of a SYN flood.

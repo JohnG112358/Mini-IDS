@@ -1,0 +1,6 @@
+2024-06-03 10:32:20,118 - INFO - Starting signature-based detector
+2024-06-03 10:32:29,575 - INFO - Detected signature 66696e646d65 for protocol TCP in a packet.
+2024-06-03 10:33:07,589 - INFO - Detected signature 66696e646d65 for protocol UDP in a packet.
+2024-06-03 10:33:31,610 - INFO - Detected signature 160301 for protocol TCP in a packet.
+2024-06-03 10:33:32,839 - INFO - Detected signature 160301 for protocol TCP in a packet.
+2024-06-03 10:33:55,514 - INFO - Detected signature 160301 for protocol TCP in a packet.

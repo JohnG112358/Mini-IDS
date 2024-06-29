@@ -1,0 +1,17 @@
+2024-06-03 10:23:20,427 - INFO - Starting ICMP detector
+2024-06-03 10:23:23,486 - INFO - All ICMP echo requests below historical moving averages
+2024-06-03 10:23:26,532 - INFO - All ICMP echo requests below historical moving averages
+2024-06-03 10:23:29,581 - INFO - All ICMP echo requests below historical moving averages
+2024-06-03 10:23:32,630 - INFO - All ICMP echo requests below historical moving averages
+2024-06-03 10:23:35,653 - INFO - All ICMP echo requests below historical moving averages
+2024-06-03 10:23:38,718 - INFO - All ICMP echo requests below historical moving averages
+2024-06-03 10:23:41,736 - WARNING - 192.168.64.1 has sent 3 ICMP echo requests in the last second. This is above the exponential moving average 1 of ICMP echo requests it has sent
+2024-06-03 10:23:44,740 - WARNING - 192.168.64.1 has sent 3 ICMP echo requests in the last second. This is above the exponential moving average 2.1999999999999997 of ICMP echo requests it has sent
+2024-06-03 10:23:47,753 - WARNING - 192.168.64.1 has sent 3 ICMP echo requests in the last second. This is above the exponential moving average 2.6799999999999997 of ICMP echo requests it has sent
+2024-06-03 10:23:50,767 - WARNING - 192.168.64.1 has sent 3 ICMP echo requests in the last second. This is above the exponential moving average 2.872 of ICMP echo requests it has sent
+2024-06-03 10:23:53,823 - WARNING - 192.168.64.1 has sent 3 ICMP echo requests in the last second. This is above the exponential moving average 2.9488 of ICMP echo requests it has sent
+2024-06-03 10:23:56,854 - WARNING - 192.168.64.1 has sent 3 ICMP echo requests in the last second. This is above the exponential moving average 2.97952 of ICMP echo requests it has sent
+2024-06-03 10:23:59,857 - WARNING - 192.168.64.1 has sent 3 ICMP echo requests in the last second. This is above the exponential moving average 2.991808 of ICMP echo requests it has sent
+2024-06-03 10:24:02,867 - WARNING - 192.168.64.1 has sent 3 ICMP echo requests in the last second. This is above the exponential moving average 2.9967232 of ICMP echo requests it has sent
+2024-06-03 10:24:05,908 - WARNING - 192.168.64.1 has sent 3 ICMP echo requests in the last second. This is above the exponential moving average 2.99868928 of ICMP echo requests it has sent
+2024-06-03 10:24:08,950 - INFO - All ICMP echo requests below historical moving averages
