@@ -1,7 +1,4 @@
 '''
-CS 60 Final Project
-John Guerrerio
-
 Class to detect icmp ping of death attacks and icmp-based denial of service attacks
 '''
 
@@ -141,6 +138,6 @@ class ICMPDetector:
             logging.info("Exiting ICMP detector")
 
 if __name__ == "__main__":
-    local_ip = "192.168.64.4"
+    local_ip = "ip"
     detector = ICMPDetector(local_ip)
     detector.start()

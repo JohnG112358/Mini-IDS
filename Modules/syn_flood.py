@@ -1,7 +1,4 @@
 '''
-CS 60 Final Project
-John Guerrerio
-
 Class to detect SYN flood attacks
 '''
 

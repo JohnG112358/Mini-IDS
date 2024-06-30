@@ -1,7 +1,4 @@
 '''
-CS 60 Final Project
-John Guerrerio
-
 Class to detect potential data exfiltration via TCP
 '''
 
@@ -166,8 +163,8 @@ class ExfiltrationDetector:
             logging.info("Exiting exfiltration detector")
 
 if __name__ == "__main__":
-    known_hosts = ["192.168.64.1"]  # Servers we know we are going to upload data to (e.g. Google Drive) - this is the ip of my actual machine the multipass VM is running on
-    local_ip = "192.168.64.4"
+    known_hosts = ["ip"]  # Servers we know we are going to upload data to (e.g. Google Drive) - this is the ip of my actual machine the multipass VM is running on
+    local_ip = "ip"
     detector = ExfiltrationDetector(local_ip, known_hosts)
     detector.start()
     

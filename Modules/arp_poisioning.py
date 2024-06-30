@@ -1,7 +1,4 @@
 '''
-CS 60 Final Project
-John Guerrerio
-
 Class to detect ARP poisioning
 '''
 
@@ -189,7 +186,7 @@ class ARPPoisoningDetector:
             logging.info("Exiting ARP poisoning detector")
 
 if __name__ == "__main__":
-    static_pairs = {'192.168.64.17': '5e:e9:1e:e7:ca:64'}  # MAC addresses of important machines we know and don't want changed
+    static_pairs = {'ip': 'mac'}  # MAC addresses of important machines we know and don't want changed
     detector = ARPPoisoningDetector(static_pairs)
     detector.start()
     

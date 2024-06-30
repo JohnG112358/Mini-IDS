@@ -1,7 +1,4 @@
 '''
-CS 60 Final Project
-John Guerrerio
-
 Class to detect port scanning
 '''
 
@@ -179,8 +176,8 @@ class PortScannerDetector:
         self.sniff_raw_socket()
 
 if __name__ == "__main__":
-    local_ip = "192.168.64.4"
-    iface = "enp0s1"
+    local_ip = "ip"
+    iface = "iface"
     ignore_ports = [22]
 
     detector = PortScannerDetector(iface, local_ip, ignore_ports)

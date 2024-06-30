@@ -1,7 +1,4 @@
 '''
-John Guerrerio
-CS 60 Final Project
-
 Functions to send TCP packets to test the syn flooding module
 '''
 
