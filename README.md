@@ -6,7 +6,9 @@ The functionality of the IDS is split into discrete modules, which are defined b
 \
 I aimed to achieve detection-in-breadth and detection-in-depth. To achieve detection-in-breadth, I developed modules to detect many different kinds of attacks. To achieve detection-in-depth, each module uses multiple mechanisms to detect an attack when possible. The specific attacks we detect are defined in the Modules section.\
 \
-All files in this repository are intended solely for educational purposes, and any other use is prohibited.
+This code is provided for educational and research purposes only. The author does not condone or support any illegal activities and is not responsible for any misuse of this code. Users are responsible for ensuring that their use of this code complies with all applicable laws and regulations.\
+\
+Use this code ethically and responsibly. Always obtain proper authorization before testing or using this code on any network or system.
 
 ## File Structure
 
