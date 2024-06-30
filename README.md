@@ -4,7 +4,9 @@ This repository contains my code a mini intrusion detection system (IDS). To sim
 \
 The functionality of the IDS is split into discrete modules, which are defined below. This allows for maximum user customization, much like a real IDS.\
 \
-I aimed to achieve detection-in-breadth and detection-in-depth. To achieve detection-in-breadth, I developed modules to detect many different kinds of attacks. To achieve detection-in-depth, each module uses multiple mechanisms to detect an attack when possible. The specific attacks we detect are defined in the Modules section.
+I aimed to achieve detection-in-breadth and detection-in-depth. To achieve detection-in-breadth, I developed modules to detect many different kinds of attacks. To achieve detection-in-depth, each module uses multiple mechanisms to detect an attack when possible. The specific attacks we detect are defined in the Modules section.\
+\
+All files in this repository are intended solely for educational purposes, and any other use is prohibited.
 
 ## File Structure
 
